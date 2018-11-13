@@ -4,6 +4,7 @@ public class CoinFlip {
 	static int tails = 0;
 	public static void main(String[] args)
 	{
+		//Elena
 		greetUser();
 		flipCoin();
 		giveTotal();
